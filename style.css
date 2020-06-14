@@ -1,0 +1,46 @@
+*{
+   margin: 0;
+   padding: 0;
+   font-family: 'Montserrat' , sans-serif; 
+
+}
+
+.container{
+   text-align: center;
+   background: powderblue;
+}
+
+figcaption , p {
+   font-size: 0.9em;
+   line-height: 1.6em;
+}
+ul {
+  
+   list-style: none;
+}
+.logo{
+    width: 80px;
+    margin-left: 5%;
+
+}
+header{
+   display: flex;
+   justify-content: space-between;
+}
+
+ ul a{
+   text-decoration: none;
+}
+
+.hide-mobile{
+   display: none;
+}
+
+.menu{
+   margin-top: 50%;
+}
+
+.server {
+   width: 20em;
+   margin: 0em 2em 1em 0em;
+}
